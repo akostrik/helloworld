@@ -1,3 +1,4 @@
-#!/usr/bin/python
 
-print("Hello World")
+def fun(a,b):
+	print("Hello World")
+	return a + b
